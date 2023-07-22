@@ -2,6 +2,8 @@
 
 This is the official code repository for the papers **"Graph Switching Dynamical Systems"** (ICML 2023), by Yongtuo Liu, Sara Magliacane, Miltiadis Kofinas, and Efstratios Gavves.
 
+![System Illustration](https://github.com/yongtuoliu/Graph-Switching-Dynamical-Systems/assets/system)
+
 ## Requirements
 
 The code was originally written for PyTorch v1.7.1 and Python 3.7.11 Higher versions of PyTorch and Python are expected to work as well. Other packages can be installed automatically by dependence.
