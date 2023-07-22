@@ -8,7 +8,11 @@ The code was originally written for PyTorch v1.7.1 and Python 3.7.11 Higher vers
 
 ## Datasets
 
+ODE-driven Particle Dataset and Salsa-couple Dancing Dataset are used in our experiments. Both of them are created by ourselves. As ODE-driven Particle Dataset is a synthetic dataset, we create it by codes. The generation codes are in Folder Data_generation. Salsa-couple Dancing Dataset is in the following link.
+
 ## Models
+
+Experimental models are in Folder Models.
 
 ## Citation
 
