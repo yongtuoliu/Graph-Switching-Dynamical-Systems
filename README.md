@@ -2,7 +2,7 @@
 
 This is the official code repository for the papers **"Graph Switching Dynamical Systems"** (ICML 2023), by Yongtuo Liu, Sara Magliacane, Miltiadis Kofinas, and Efstratios Gavves.
 
-![System Illustration](https://github.com/yongtuoliu/Graph-Switching-Dynamical-Systems/assets/system)
+![System Illustration](https://github.com/yongtuoliu/Graph-Switching-Dynamical-Systems/assets/system.png)
 
 ## Requirements
 
